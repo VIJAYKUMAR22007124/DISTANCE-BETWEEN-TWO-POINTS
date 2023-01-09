@@ -8,7 +8,7 @@ import math
 ### Step 2: 
 Give the coordinates of both point
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![image](./formula.JPG)
 ### Step 4:
 Run the program
 ### PROGRAM:
